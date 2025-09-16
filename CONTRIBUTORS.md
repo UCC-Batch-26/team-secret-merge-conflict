@@ -1,1 +1,3 @@
 # Contributors
+
+- Jefferson B. Jalandoon
